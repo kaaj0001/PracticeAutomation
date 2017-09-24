@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 This is text
-=======
-this is tessting version
- 699fbb622d29aaa3141ddc1158dc1b19c0c1be5D
+=
+this is tessting versionD
 if(false)
 {
 ...
@@ -13,4 +12,6 @@ if(false)
 else{
 
 }i2
+
+Adding a text for stash
 
